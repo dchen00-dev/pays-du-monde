@@ -1,6 +1,6 @@
 # Japon
 
-![Drapeau du Japon](https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg)
+![Drapeau du Japon](https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg){width=400px}
 
 ## Informations du pays
 

@@ -1,13 +1,13 @@
 - [Allemagne](allemagne.md)
-![Drapeau de l'Allemagne](https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg)
+![Drapeau de l'Allemagne](https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg){width=200px}
 
 - [Espagne](espagne.md)
-![Drapeau de l'Espagne](https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg)
+![Drapeau de l'Espagne](https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg){width=200px}
 
 - [France](france.md)
-![Drapeau de la France](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg)
+![Drapeau de la France](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg){width=200px}
 
 - [Italie](italie.md)
-![Drapeau de l'Italie](https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg)
+![Drapeau de l'Italie](https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg){width=200px}
 
 - [Précédent](../README.md)

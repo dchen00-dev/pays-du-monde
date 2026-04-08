@@ -1,6 +1,6 @@
 # Allemagne
 
-![Drapeau de l'Allemagne](https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg)
+![Drapeau de l'Allemagne](https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg){width=400px}
 
 ## Informations du pays
 

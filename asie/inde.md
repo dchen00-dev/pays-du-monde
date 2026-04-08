@@ -1,6 +1,6 @@
 # Inde
 
-![Drapeau de l'Inde](https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg)
+![Drapeau de l'Inde](https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg){width=400px}
 
 ## Informations du pays
 
