@@ -9,6 +9,6 @@
 >**Population** : Environ 49 millions \
 >**Superficie** : 505 911 km² \
 >**Langue officielle** : Espagnol \
->**Monnaie**: Euro \
+>**Monnaie**: Euro 
 
 - [Précédent](index.md)
