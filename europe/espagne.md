@@ -1,6 +1,6 @@
 # Espagne
 
-![Drapeau de l'Espagne](https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg){width=400px}
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="400">
 
 ## Informations du pays
 

@@ -1,6 +1,6 @@
 # Italie
 
-![Drapeau de l'Italie](https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg){width=400px}
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="400">
 
 ## Informations du pays
 
