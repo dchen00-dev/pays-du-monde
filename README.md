@@ -1,5 +1,7 @@
-# pays-du-monde
+# Les pays du monde
 
-[Amérique](./amerique/index.md)
-[Asie](./asie/index.md)
-[Europe](./europe/index.md)
+## Les continents
+
+- [Amérique](./amerique/index.md)
+- [Asie](./asie/index.md)
+- [Europe](./europe/index.md)
