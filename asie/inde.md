@@ -4,11 +4,11 @@
 
 ## Informations du pays
 
->**Capitale** : New Dehli
->**Continent** : Asie
->**Population** : Environ 1.45 milliards
->**Superficie** : 3 287 000 km²
->**Langue officielle** : Hindi, Anglais
->**Monnaie**: Roupie 
+>**Capitale** : New Dehli \
+>**Continent** : Asie \
+>**Population** : Environ 1.45 milliards \
+>**Superficie** : 3 287 000 km² \
+>**Langue officielle** : Hindi, Anglais \
+>**Monnaie**: Roupie \
 
 - [Précédent](index.md)

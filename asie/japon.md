@@ -4,11 +4,11 @@
 
 ## Informations du pays
 
->**Capitale** : Tokyo
->**Continent** : Asie
->**Population** : Environ 124 millions
->**Superficie** : 377 976 km²
->**Langue officielle** : Japonais
->**Monnaie**: Yen
+>**Capitale** : Tokyo \
+>**Continent** : Asie \
+>**Population** : Environ 124 millions \
+>**Superficie** : 377 976 km² \
+>**Langue officielle** : Japonais \
+>**Monnaie**: Yen \
 
 - [Précédent](index.md)

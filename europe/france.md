@@ -4,11 +4,11 @@
 
 ## Informations du pays
 
->**Capitale** : Paris
->**Continent** : Europe
->**Population** : Environ 68 millions
->**Superficie** : 643 801 km²
->**Langue officielle** : Français
->**Monnaie**: Euro
+>**Capitale** : Paris \
+>**Continent** : Europe \
+>**Population** : Environ 68 millions \
+>**Superficie** : 643 801 km² \
+>**Langue officielle** : Français \
+>**Monnaie**: Euro \
 
 - [Précédent](index.md)

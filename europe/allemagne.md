@@ -4,11 +4,11 @@
 
 ## Informations du pays
 
->**Capitale** : Berlin
->**Continent** : Europe
->**Population** : Environ 84 millions
->**Superficie** : 357 683 km²
->**Langue officielle** : Allemand
->**Monnaie**: Euro
+>**Capitale** : Berlin \
+>**Continent** : Europe \
+>**Population** : Environ 84 millions \
+>**Superficie** : 357 683 km² \
+>**Langue officielle** : Allemand \
+>**Monnaie**: Euro \
 
 - [Précédent](index.md)
