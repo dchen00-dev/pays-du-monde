@@ -5,6 +5,6 @@
 **Capitale** : Beijing
 **Continent** : Asie
 **Population** : Environ 1.4 milliards
-**Superficie** : 9 597 000 km^2
+**Superficie** : 9 597 000 km²
 **Langue officielle** : Mandarin, Putonghua
 **Monnaie**: Yuan

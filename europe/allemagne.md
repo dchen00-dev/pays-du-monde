@@ -5,6 +5,6 @@
 **Capitale** : Berlin
 **Continent** : Europe
 **Population** : Environ 84 millions
-**Superficie** : 357 683 km^2
+**Superficie** : 357 683 km²
 **Langue officielle** : Allemand
 **Monnaie**: Euro

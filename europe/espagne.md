@@ -5,6 +5,6 @@
 **Capitale** : Madrid
 **Continent** : Europe
 **Population** : Environ 49 millions
-**Superficie** : 505 911 km^2
+**Superficie** : 505 911 km²
 **Langue officielle** : Espagnol
 **Monnaie**: Euro
