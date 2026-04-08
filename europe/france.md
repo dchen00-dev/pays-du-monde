@@ -4,7 +4,7 @@
 
 **Capitale** : Paris
 **Continent** : Europe
-**Population** : Environ 168 millions
+**Population** : Environ 68 millions
 **Superficie** : 643 801 km^2
 **Langue officielle** : Français
 **Monnaie**: Euro
