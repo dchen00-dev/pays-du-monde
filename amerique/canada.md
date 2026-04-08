@@ -1,6 +1,6 @@
 # Canada
 
-![Drapeau du Canada](https://commons.wikimedia.org/wiki/File:Flag_of_Canada.svg)
+![Drapeau du Canada](https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg)
 
 **Capitale** : Ottawa
 **Continent** : Amérique
