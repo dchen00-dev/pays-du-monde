@@ -8,3 +8,5 @@
 **Superficie** : 377 976 km²
 **Langue officielle** : Japonais
 **Monnaie**: Yen
+
+[Précédent](index.md)
