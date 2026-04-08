@@ -5,6 +5,6 @@
 **Capitale** : Ottawa
 **Continent** : Amérique
 **Population** : Environ 41 millions
-**Superficie** : 9 984 670 km^2
+**Superficie** : 9 984 670 km²
 **Langue officielle** : Français, Anglais
 **Monnaie**: Dollar Canadien
