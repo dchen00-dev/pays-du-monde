@@ -1,6 +1,6 @@
 # Canada
 
-![Drapeau du Canada](https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg){width=400px}
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" width="400">
 
 ## Informations du pays
 

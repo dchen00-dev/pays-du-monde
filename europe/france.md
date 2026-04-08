@@ -1,6 +1,6 @@
 # France
 
-![Drapeau de la France](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg){width=400px}
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="400">
 
 ## Informations du pays
 

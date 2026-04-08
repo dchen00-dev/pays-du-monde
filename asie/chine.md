@@ -1,6 +1,6 @@
 # Chine
 
-![Drapeau de la Chine](https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg){width=400px}
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="400">
 
 ## Informations du pays
 
