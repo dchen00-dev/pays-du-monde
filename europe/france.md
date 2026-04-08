@@ -1,6 +1,6 @@
 # France
 
-![Drapeau de la France](https://uploade.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg)
+![Drapeau de la France](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg)
 
 **Capitale** : Paris
 **Continent** : Europe
