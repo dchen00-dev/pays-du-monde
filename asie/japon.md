@@ -9,6 +9,6 @@
 >**Population** : Environ 124 millions \
 >**Superficie** : 377 976 km² \
 >**Langue officielle** : Japonais \
->**Monnaie**: Yen \
+>**Monnaie**: Yen 
 
 - [Précédent](index.md)

@@ -9,6 +9,6 @@
 >**Population** : Environ 59 millions \
 >**Superficie** : 302 073 km² \
 >**Langue officielle** : Italien \
->**Monnaie**: Euro \
+>**Monnaie**: Euro 
 
 - [Précédent](index.md)

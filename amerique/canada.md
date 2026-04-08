@@ -9,6 +9,6 @@
 >**Population** : Environ 41 millions \
 >**Superficie** : 9 984 670 km² \
 >**Langue officielle** : Français, Anglais\
->**Monnaie**: Dollar Canadien\
+>**Monnaie**: Dollar Canadien
 
 - [Précédent](index.md)
