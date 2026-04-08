@@ -3,4 +3,4 @@
 [France](france.md)
 [Italie](italie.md)
 
-[Précédent](README.md)
+[Précédent](../README.md)

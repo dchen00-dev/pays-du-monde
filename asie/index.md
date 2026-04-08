@@ -2,4 +2,4 @@
 [Inde](inde.md)
 [Japon](japon.md)
 
-[Précédent](README.md)
+[Précédent](../README.md)

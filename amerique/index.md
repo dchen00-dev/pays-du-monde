@@ -1,3 +1,3 @@
 [Canada](canada.md)
 
-[Précédent](README.md)
+[Précédent](../README.md)
